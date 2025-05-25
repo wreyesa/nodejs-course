@@ -1,3 +1,3 @@
-const {saludar, saludarHolaMundo} = require('./saludos.js')
-
-console.log(saludar('freecodecamp'))
+console.log('hola mundo')
+console.warn('ocurrio un error...')
+console.error(new Error('ocurrio un error'))
